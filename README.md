@@ -4,7 +4,7 @@ Thanks for checking out this [Frontend Mentor](https://www.frontendmentor.io/) c
 
 <h1 align="center">Landing page with dropdown nav</h1>
 
-<img src=".assets/readme_images/readme1.png">
+<img src="./assets/readme_images/readme1.png" width="24%" height="auto"> <img src="./assets/readme_images/readme2.png" width="24%" height="auto"> <img src="./assets/readme_images/readme3.png" width="24%" height="auto"> <img src="./assets/readme_images/readme4.png" width="24%" height="auto">
 
 
 Contents
@@ -75,7 +75,7 @@ Your users should be able to:
 
 ## Author
 
-**David Willian**
+**David Willian Chaves**
 
 - https://www.linkedin.com/in/david0chaves/
 - https://github.com/davidchaves
